@@ -1,0 +1,6 @@
+@QuoteGenerationMS_HostAddress = http://localhost:5004
+
+GET {{QuoteGenerationMS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

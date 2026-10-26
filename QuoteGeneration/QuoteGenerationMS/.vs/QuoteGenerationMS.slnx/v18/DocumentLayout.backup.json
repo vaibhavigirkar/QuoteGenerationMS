@@ -1,0 +1,1067 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\discountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\riskassessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\riskassessmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\quoteridercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\quoteridercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\quotelifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\quotelifecyclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\quotehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\quotehistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\quoteapprovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\quoteapprovalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\controllers\\premiumcalculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\controllers\\premiumcalculationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\migrations\\20261024081221_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\migrations\\20261024081221_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\productmanagementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\productmanagementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\productmanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\productmanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\clients\\underwritingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\clients\\underwritingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\kycresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\kycresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\ikycclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\ikycclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\quoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\clients\\customerregistrationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\clients\\customerregistrationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\customerregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\customerregistrationresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\icustomerregistrationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\icustomerregistrationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\createquotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iquoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iunderwritingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iunderwritingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\createunderwritingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\createunderwritingresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\underwriting_decisionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\underwriting_decisionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\idiscountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iriskassessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iriskassessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\risk_scoreresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\risk_scoreresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\underwriting_caseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\underwriting_caseresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\calculateriskscorerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\calculateriskscorerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\createunderwritingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\createunderwritingrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms\\quotegenerationms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E98291A-273F-AD61-F05B-DDC33A17252D}|QuoteGenerationMS\\QuoteGenerationMS.csproj|solutionrelative:quotegenerationms\\quotegenerationms.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iproductmanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iproductmanagementclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\quotehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\quotehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iquotehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iquotehistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\quote_historydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\quote_historydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\quotelifecycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\quotelifecycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iquotelifecycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iquotelifecycleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\quoteapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\quoteapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iquoteapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iquoteapprovalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\quoteriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\quoteriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\iquoteriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\iquoteriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\createquoteriderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\createquoteriderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\quote_riderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\quote_riderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\creatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\creatediscountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\discount_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\discount_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\riskassessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\riskassessmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\createriskassessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\createriskassessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\risk_assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\risk_assessmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\repositories\\premiumcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\repositories\\premiumcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\interface\\ipremiumcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\interface\\ipremiumcalculationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\premiumcalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\premiumcalculationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\calculatepremiumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\calculatepremiumdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\updatequotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\updatequotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.application\\dto\\quotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0F07D4-1136-2187-B266-DFDE87A6DF75}|QuoteGenerationMS.Application\\QuoteGenerationMS.Application.csproj|solutionrelative:quotegenerationms.application\\dto\\quotedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\quote_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\quote_history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\discount_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\discount_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\quote_rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\quote_rider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DDDA6B-8EA6-580C-AD77-D6E7A8AC719B}|QuoteGenerationMS.Infrastructure\\QuoteGenerationMS.Infrastructure.csproj|solutionrelative:quotegenerationms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\risk_assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\risk_assessment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\quotegeneration\\quotegenerationms\\quotegenerationms.domain\\entities\\premium_calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3368D2A1-5AE2-DEF0-EFF6-691B233560D5}|QuoteGenerationMS.Domain\\QuoteGenerationMS.Domain.csproj|solutionrelative:quotegenerationms.domain\\entities\\premium_calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteLifecycleController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteLifecycleController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\QuoteLifecycleController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteLifecycleController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\QuoteLifecycleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:16:07.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QuoteRiderController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteRiderController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\QuoteRiderController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteRiderController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\QuoteRiderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:10:15.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Program.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Program.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAI0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:04:57.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\DiscountController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\DiscountController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\DiscountController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\DiscountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:07:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\appsettings.json",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\appsettings.json",
+              "RelativeToolTip": "QuoteGenerationMS\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-21T19:52:27.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QuoteHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteHistoryController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\QuoteHistoryController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteHistoryController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\QuoteHistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:20:22.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:23:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\QuoteController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\QuoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:26:39.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RiskAssessmentController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\RiskAssessmentController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\RiskAssessmentController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\RiskAssessmentController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\RiskAssessmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:04:32.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QuoteApprovalController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteApprovalController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\QuoteApprovalController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\QuoteApprovalController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\QuoteApprovalController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:13:27.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PremiumCalculationController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\PremiumCalculationController.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\Controllers\\PremiumCalculationController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\Controllers\\PremiumCalculationController.cs",
+              "RelativeToolTip": "QuoteGenerationMS\\Controllers\\PremiumCalculationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:00:50.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UnderwritingClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Clients\\UnderwritingClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Clients\\UnderwritingClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Clients\\UnderwritingClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Clients\\UnderwritingClient.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAkwF0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:44:08.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "productManagementDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\productManagementDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\productManagementDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\productManagementDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\productManagementDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T15:16:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductManagementClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\ProductManagementClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\ProductManagementClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\ProductManagementClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\ProductManagementClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T15:27:24.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20261024081221_initdb.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Migrations\\20261024081221_initdb.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Migrations\\20261024081221_initdb.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Migrations\\20261024081221_initdb.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Migrations\\20261024081221_initdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:12:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "kycResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\kycResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\kycResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\kycResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\kycResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T19:11:51.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IKycClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IKycClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IKycClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IKycClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IKycClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T19:11:33.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerRegistrationClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Clients\\CustomerRegistrationClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Clients\\CustomerRegistrationClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Clients\\CustomerRegistrationClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Clients\\CustomerRegistrationClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T18:54:28.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "customerRegistrationResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\customerRegistrationResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\customerRegistrationResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\customerRegistrationResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\customerRegistrationResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T18:54:07.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:21:13.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ICustomerRegistrationClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\ICustomerRegistrationClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\ICustomerRegistrationClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\ICustomerRegistrationClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\ICustomerRegistrationClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T18:53:44.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IQuoteService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IQuoteService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IQuoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:20:06.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "createQuoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createQuoteDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createQuoteDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createQuoteDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createQuoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:18:25.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "quote.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\quote.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:54:05.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUnderwritingClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IUnderwritingClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IUnderwritingClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IUnderwritingClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IUnderwritingClient.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA0wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:30:35.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "createUnderwritingResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createUnderwritingResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createUnderwritingResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createUnderwritingResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createUnderwritingResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T10:16:05.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "underwriting_decisionResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\underwriting_decisionResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\underwriting_decisionResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\underwriting_decisionResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\underwriting_decisionResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:41:57.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IDiscountService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IDiscountService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IDiscountService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IDiscountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:06:20.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRiskAssessmentService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IRiskAssessmentService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IRiskAssessmentService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IRiskAssessmentService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IRiskAssessmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:02:56.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "risk_scoreResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\risk_scoreResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\risk_scoreResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\risk_scoreResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\risk_scoreResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:41:40.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "underwriting_caseResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\underwriting_caseResponseDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\underwriting_caseResponseDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\underwriting_caseResponseDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\underwriting_caseResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:38:30.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "calculateRiskScoreRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\calculateRiskScoreRequestDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\calculateRiskScoreRequestDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\calculateRiskScoreRequestDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\calculateRiskScoreRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:38:07.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "createUnderwritingRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createUnderwritingRequestDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createUnderwritingRequestDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createUnderwritingRequestDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createUnderwritingRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:35:32.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QuoteGenerationMS.csproj",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\QuoteGenerationMS.csproj",
+              "RelativeDocumentMoniker": "QuoteGenerationMS\\QuoteGenerationMS.csproj",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS\\QuoteGenerationMS.csproj",
+              "RelativeToolTip": "QuoteGenerationMS\\QuoteGenerationMS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-23T09:03:13.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IProductManagementClient.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IProductManagementClient.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IProductManagementClient.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IProductManagementClient.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IProductManagementClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-22T15:22:57.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "quote_historyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quote_historyDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\quote_historyDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quote_historyDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\quote_historyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:18:39.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MappingData.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Mapper\\MappingData.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Mapper\\MappingData.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Mapper\\MappingData.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Mapper\\MappingData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:21:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IQuoteHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteHistoryService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IQuoteHistoryService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteHistoryService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IQuoteHistoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:18:57.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "QuoteHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteHistoryService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteHistoryService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteHistoryService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteHistoryService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:19:13.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "QuoteLifecycleService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteLifecycleService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteLifecycleService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteLifecycleService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteLifecycleService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:15:20.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IQuoteLifecycleService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteLifecycleService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IQuoteLifecycleService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteLifecycleService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IQuoteLifecycleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:15:02.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "QuoteApprovalService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteApprovalService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteApprovalService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteApprovalService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteApprovalService.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:12:47.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IQuoteApprovalService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteApprovalService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IQuoteApprovalService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteApprovalService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IQuoteApprovalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:12:23.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "QuoteRiderService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteRiderService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteRiderService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\QuoteRiderService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\QuoteRiderService.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAwwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:09:35.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IQuoteRiderService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteRiderService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IQuoteRiderService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IQuoteRiderService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IQuoteRiderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:09:19.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "createQuoteRiderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createQuoteRiderDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createQuoteRiderDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createQuoteRiderDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createQuoteRiderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:08:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "quote_riderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quote_riderDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\quote_riderDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quote_riderDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\quote_riderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:08:41.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\DiscountService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\DiscountService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\DiscountService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\DiscountService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:06:38.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "createDiscountDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createDiscountDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createDiscountDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createDiscountDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createDiscountDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:05:52.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "discount_masterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\discount_masterDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\discount_masterDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\discount_masterDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\discount_masterDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:05:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RiskAssessmentService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\RiskAssessmentService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\RiskAssessmentService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\RiskAssessmentService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\RiskAssessmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:03:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "createRiskAssessmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createRiskAssessmentDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\createRiskAssessmentDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\createRiskAssessmentDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\createRiskAssessmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:02:31.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "risk_assessmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\risk_assessmentDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\risk_assessmentDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\risk_assessmentDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\risk_assessmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T21:02:12.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PremiumCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\PremiumCalculationService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Repositories\\PremiumCalculationService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Repositories\\PremiumCalculationService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Repositories\\PremiumCalculationService.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAwwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:59:31.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IPremiumCalculationService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IPremiumCalculationService.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\Interface\\IPremiumCalculationService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\Interface\\IPremiumCalculationService.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\Interface\\IPremiumCalculationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:59:11.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "premiumCalculationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\premiumCalculationDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\premiumCalculationDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\premiumCalculationDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\premiumCalculationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:58:48.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "calculatePremiumDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\calculatePremiumDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\calculatePremiumDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\calculatePremiumDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\calculatePremiumDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:58:26.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "updateQuoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\updateQuoteDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\updateQuoteDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\updateQuoteDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\updateQuoteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:19:22.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "quoteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quoteDTO.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Application\\DTO\\quoteDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Application\\DTO\\quoteDTO.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Application\\DTO\\quoteDTO.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA3wCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:17:58.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "quote_history.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote_history.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\quote_history.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote_history.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\quote_history.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T20:02:52.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "discount_master.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\discount_master.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\discount_master.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\discount_master.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\discount_master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:58:10.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "quote_rider.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote_rider.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\quote_rider.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\quote_rider.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\quote_rider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:57:48.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:22:33.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "risk_assessment.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\risk_assessment.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\risk_assessment.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\risk_assessment.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\risk_assessment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:57:17.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "premium_calculation.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\premium_calculation.cs",
+              "RelativeDocumentMoniker": "QuoteGenerationMS.Domain\\Entities\\premium_calculation.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\QuoteGeneration\\QuoteGenerationMS\\QuoteGenerationMS.Domain\\Entities\\premium_calculation.cs",
+              "RelativeToolTip": "QuoteGenerationMS.Domain\\Entities\\premium_calculation.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T19:56:46.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

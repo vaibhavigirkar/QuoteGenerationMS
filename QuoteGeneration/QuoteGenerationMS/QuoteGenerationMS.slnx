@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="QuoteGenerationMS.Application/QuoteGenerationMS.Application.csproj" />
+  <Project Path="QuoteGenerationMS.Domain/QuoteGenerationMS.Domain.csproj" />
+  <Project Path="QuoteGenerationMS.Infrastructure/QuoteGenerationMS.Infrastructure.csproj" />
+  <Project Path="QuoteGenerationMS/QuoteGenerationMS.csproj" />
+</Solution>

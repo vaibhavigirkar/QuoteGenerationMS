@@ -1,0 +1,467 @@
+[
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.DiscountController",
+    "Method": "AddDiscount",
+    "RelativePath": "api/v1/discounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.createDiscountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.DiscountController",
+    "Method": "FetchAllDiscounts",
+    "RelativePath": "api/v1/discounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.DiscountController",
+    "Method": "FindDiscountById",
+    "RelativePath": "api/v1/discounts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.DiscountController",
+    "Method": "UpdateDiscount",
+    "RelativePath": "api/v1/discounts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.createDiscountDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.DiscountController",
+    "Method": "DeactivateDiscount",
+    "RelativePath": "api/v1/discounts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteHistoryController",
+    "Method": "FetchAllHistory",
+    "RelativePath": "api/v1/quote-history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteHistoryController",
+    "Method": "FetchHistoryByQuoteId",
+    "RelativePath": "api/v1/quote-history/{quote_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quote_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteRiderController",
+    "Method": "AddRider",
+    "RelativePath": "api/v1/quote-riders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.createQuoteRiderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteRiderController",
+    "Method": "RemoveRider",
+    "RelativePath": "api/v1/quote-riders/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteRiderController",
+    "Method": "FetchRidersByQuoteId",
+    "RelativePath": "api/v1/quote-riders/{quote_id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quote_id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "CreateQuote",
+    "RelativePath": "api/v1/quotes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.createQuoteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "GetAllQuotes",
+    "RelativePath": "api/v1/quotes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "GetQuoteById",
+    "RelativePath": "api/v1/quotes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "UpdateQuote",
+    "RelativePath": "api/v1/quotes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.updateQuoteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "CancelQuote",
+    "RelativePath": "api/v1/quotes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteApprovalController",
+    "Method": "ApproveQuote",
+    "RelativePath": "api/v1/quotes/{id}/approve",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteLifecycleController",
+    "Method": "ConvertQuote",
+    "RelativePath": "api/v1/quotes/{id}/convert",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.PremiumCalculationController",
+    "Method": "GetPremiumByQuoteId",
+    "RelativePath": "api/v1/quotes/{id}/premium",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteApprovalController",
+    "Method": "RejectQuote",
+    "RelativePath": "api/v1/quotes/{id}/reject",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "CalculateRiskScore",
+    "RelativePath": "api/v1/quotes/{quoteId}/risk-score",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.calculateRiskScoreRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "GetRiskScore",
+    "RelativePath": "api/v1/quotes/{quoteId}/risk-score",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "SendQuoteForUnderwriting",
+    "RelativePath": "api/v1/quotes/{quoteId}/send-for-underwriting",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "customerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "GetUnderwritingCase",
+    "RelativePath": "api/v1/quotes/{quoteId}/underwriting",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteController",
+    "Method": "GetUnderwritingDecision",
+    "RelativePath": "api/v1/quotes/{quoteId}/underwriting-decision",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.PremiumCalculationController",
+    "Method": "CalculatePremium",
+    "RelativePath": "api/v1/quotes/calculate-premium",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.calculatePremiumDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.QuoteLifecycleController",
+    "Method": "ExpireQuotes",
+    "RelativePath": "api/v1/quotes/expire",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.RiskAssessmentController",
+    "Method": "CreateRiskAssessment",
+    "RelativePath": "api/v1/risk-assessment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "QuoteGenerationMS.Application.DTO.createRiskAssessmentDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.RiskAssessmentController",
+    "Method": "GetRiskAssessmentByQuoteId",
+    "RelativePath": "api/v1/risk-assessment/{quoteId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "quoteId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuoteGenerationMS.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[QuoteGenerationMS.WeatherForecast, QuoteGenerationMS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
